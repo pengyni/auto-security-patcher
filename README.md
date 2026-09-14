@@ -50,8 +50,8 @@ basically runs through your ecs and fixes a bunch of common security holes in on
 ## What it does NOT do
 
 - wont touch random projects that arent ecs
-- doesnt mean youre 100% safe, test your site after
-- doesnt do moderation or legal stuff for you thats on you
+- doesnt mean youre 100% safe, ddos attacks can still happen, however user data and anything private is going to stay private
+- doesnt do moderation or legal stuff for you thats on you to do
 
 ## Support
 
